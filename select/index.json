@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "守りたいもの",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2026-01-03T14:12:13.696229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "守りたいもの",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/01_守りたいもの_大原ゆい子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "守りたいもの",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/02_守りたいもの_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "守りたいもの",
+      "artist": "大原ゆい子Official YouTube",
+      "has_synced": true,
+      "path": "select/03_守りたいもの_大原ゆい子Official_YouTube.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "守りたいもの",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_守りたいもの_大原ゆい子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "守りたいもの",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_守りたいもの_大原ゆい子.txt"
+    }
+  ]
+}
